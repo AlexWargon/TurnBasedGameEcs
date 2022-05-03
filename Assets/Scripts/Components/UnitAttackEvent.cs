@@ -1,0 +1,2 @@
+[EcsComponent]
+public struct UnitAttackEvent{}

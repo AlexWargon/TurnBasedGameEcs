@@ -1,0 +1,1 @@
+﻿[EcsComponent]public struct PoisonDamageTick { }

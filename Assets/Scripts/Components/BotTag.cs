@@ -1,0 +1,2 @@
+﻿[EcsComponent]
+public class BotTag { }
